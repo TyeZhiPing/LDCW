@@ -1,6 +1,6 @@
 #include <iostream> // For input/output operations
-#include <cstdlib> // For system()
-#include <iomanip> // For setprecision
+#include <cstdlib>  // For system()
+#include <iomanip>  // For setprecision
 using namespace std;
 
 // Cross-platform clear screen
